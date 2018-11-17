@@ -1,5 +1,4 @@
-# Integracao-Numerica
-Gauss quadrature and Trapezoidal methods
+# Analise Numerica
 
 Python 3.7.1
-Bibliotecas: numpy
+Lib: numpy
