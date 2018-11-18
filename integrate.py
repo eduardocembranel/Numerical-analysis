@@ -90,7 +90,7 @@ def trapezoidal(func, a, b, n=1):
 
    return val, err
 
-def simpson(func, a, b, n=1):
+def simpson(func, a, b, n=2):
    """
    """
    h = (b - a) / n
